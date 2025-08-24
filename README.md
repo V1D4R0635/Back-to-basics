@@ -1,0 +1,1 @@
+"This repository serves as a personal refresher for my programming journey. I’m starting with the fundamentals in C to rebuild a strong foundation, then gradually moving on to Java to reinforce object-oriented concepts. The goal is to revisit core coding principles, practice problem-solving, and strengthen my understanding of how different languages approach programming."
