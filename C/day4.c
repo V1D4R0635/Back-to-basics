@@ -32,5 +32,5 @@ int main() {
     }else{
         printf("Please input one of the choices");
     }
-
+    return 0;
 }
